@@ -54,52 +54,6 @@
 
 
   {
-    "title":"Other Recommended Apps",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Contact",
-        "provider":"webview",
-        "arguments":[
-          "http://play.google.com/store/apps/dev?id=9112686200671875474"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Rate this App",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Contact",
-        "provider":"webview",
-        "arguments":[
-          "http://play.google.com/store/apps/details?id=com.latestnaija.gossip"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Contact us",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Contact",
-        "provider":"webview",
-        "arguments":[
-          "http://linktr.ee/vrengkat"
-        ]
-      }
-    ]
-  },
-
-  {
     "title":"Customize",
     "drawable":"",
     "submenu":"Other",
@@ -109,7 +63,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.latestnaija.gossip.SettingsFragment", "fragment"
+          "com.jvtechbro.freshnaijamusic.SettingsFragment", "fragment"
         ]
       }
     ]
