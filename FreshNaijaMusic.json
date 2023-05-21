@@ -116,7 +116,51 @@
     ]
   },
 
-
+{
+    "title":"Give us a 5 star rating",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Contact",
+        "provider":"webview",
+        "arguments":[
+          "http://play.google.com/store/apps/details?id=com.jvtechbro.freshnaijamusic"
+        ]
+      }
+    ]
+  },
+{
+    "title":"Reach us on Whatsapp",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Contact",
+        "provider":"webview",
+        "arguments":[
+          "https://wa.me/+2348094046906"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"DISCLAIMER !!! the app does not own the contents available on this app, we merely show it",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Contact",
+        "provider":"webview",
+        "arguments":[
+          ""
+        ]
+      }
+    ]
+  },
 
   {
     "title":"Settings",
