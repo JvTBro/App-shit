@@ -1,12 +1,83 @@
 [
   {
-    
+    "title":"Music",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Tooxclusive",
+        "provider":"rss",
+        "arguments":[
+          "https://tooxclusive.com/feed/                                                         "
+        ]
+      },
+      {
+        "title":"NaijaMuzic",
+        "provider":"rss",
+        "arguments":[
+          "https://www15.24naijamuzic.com/feed/                                                         "
+        ]
+      },
+      {
+        "title":"Jambaze",
+        "provider":"rss",
+        "arguments":[
+          "https://jambaze.com/feed/                                                         "
+        ]
+      },
+      {
+        "title":"JustNaija",
+        "provider":"rss",
+        "arguments":[
+          "https://justnaija.com/feed/                                                         "
+        ]
+      },
+      {
+        "title":"36Ng",
+        "provider":"rss",
+        "arguments":[
+          "https://www.36ng.ng/feed/                                                        "
+        ]
+      },
+	  {
+        "title":"NotJustOk",
+        "provider":"rss",
+        "arguments":[
+          "https://notjustok.com/feed/                                                         "
+        ]
+      },
+	  
+	  {
+        "title":"9jaflaver",
+        "provider":"rss",
+        "arguments":[
+          "https://9jaflaver.com/feed/"
+        ]
+      },
+      {
+        "title":"Naijaloaded",
+        "provider":"rss",
+        "arguments":[
+          "https://www.naijaloaded.com.ng/feed"
+        ]
+      }
+    ]
+  },
+
+{
     "title":"Entertainment news",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
-      
+      {
+        "title":"Tooxclusive",
+        "provider":"rss",
+        "arguments":[
+          "https://tooxclusive.com/feed/                                                         "
+        ]
+      },
       {
         "title":"NaijaNews",
         "provider":"rss",
@@ -27,8 +98,21 @@
         "arguments":[
           "https://www.bellanaija.com/feed/                                                         "
         ]
+      },
+      {
+        "title":"36Ng",
+        "provider":"rss",
+        "arguments":[
+          "https://www.36ng.ng/feed/                                                        "
+        ]
+      },
+      {
+        "title":"Naijaloaded",
+        "provider":"rss",
+        "arguments":[
+          "https://www.naijaloaded.com.ng/feed"
+        ]
       }
-      
     ]
   },
 
